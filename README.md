@@ -1,2 +1,2 @@
-# git
+I AM FROM B SECTION# git
 WELCOME TO GIT LAB
